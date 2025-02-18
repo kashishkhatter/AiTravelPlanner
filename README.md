@@ -1,6 +1,24 @@
-# Welcome to your Expo app 👋
+# **Tripin'It - Your Personal AI Travel Planner**
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+🌍✈️ **Dreaming of Goa with friends? Or maybe craving a solo escape? Let AI handle your travel plans!**
+
+Say goodbye to stressful trip planning! Introducing **Tripin'It**, your personal AI travel planner that makes creating custom itineraries quick and easy.
+
+---
+
+## 🛫 **Features**:
+- **Custom Itinerary Generation**: Simply enter your **budget**, **destination**, **dates**, and **who’s traveling**, and get a tailored travel plan instantly! 💸🌍📅👥
+- **Places to Visit**: Receive personalized recommendations for exciting places to visit, stay, and explore! 🏨🌆
+- **Real-Time Updates**: Stay updated on your travel plans with **real-time notifications** and updates. 🔔
+  
+---
+
+## 💡 **Built With**:
+- **Frontend**: **React Native** for a seamless, cross-platform experience on both Android and iOS. 📱
+- **Backend**: **Firebase** for secure authentication and real-time database management. 🔐
+- **AI**: **Gemini AI** to generate exciting and personalized travel plans. 🤖
+
+---
 
 ## Get started
 
